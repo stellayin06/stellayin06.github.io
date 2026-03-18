@@ -1,0 +1,16 @@
+papers:
+
+  - title: "Decoding the success of collaboration in computational thinking"
+    authors: "Stella Xin Yin, Dion Hoe-Lian Goh, Choon Lang Quek"
+    venue: "Learning and Instruction 2025"
+    paper_pdf: "assets/posters/Decoding the success of collaboration in computational thinking.pdf"
+    selected: y
+    news: "Through a between-subject experiment with 79 fifth-grade elementary school students, this study examines how self-efficacy, engagement, and collaboration preference influence CT skills and learning satisfaction. It also compares the relationships among these motivational factors between pair programming and individual learning contexts."
+    
+  - title: "Scaling up collaborative dialogue analysis: An AI-driven approach to understanding dialogue patterns in Computational Thinking education"
+    authors: "Stella Xin Yin, Zhengyuan Liu, Dion Hoe-Lian Goh, Choon Lang Quek, Nancy F. Chen"
+    venue: "LAK 2025"
+    selected: y
+    paper_pdf: "assets/posters/Scaling Up Collaborative Dialogue Analysis.pdf"
+    news: "We introduce an AI-driven collaborative dialogue analysis framework that effectively analyze classroom recordings with high accuracy and efficiency. After identifying the dialogue patterns, we investigate the relationships between these patterns and CT performance. Four clusters of dialogue patterns have been identified: Inquiry, Constructive Collaboration, Disengagement, and Disputation."
+

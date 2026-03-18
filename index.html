@@ -1,0 +1,156 @@
+---
+layout: default
+title: Home
+---
+<!-- ========== BIO ========== -->
+<div class="docs-section" id="bio">
+  <h4>Bio</h4>
+  <p>
+    I am a researcher at the intersection of information science, artificial intelligence, and education, with a passion for understanding how data-driven technologies can support personalized learning experiences.
+  </p>
+  <p>
+    I received my Ph.D. in Information Studies from Nanyang Technological University, Singapore, where I was advised by Professors Dion Hoe-Lian Goh and Choon Lang Quek. Prior to that, I earned a Bachelor's degree in International Studies from Sun Yat-sen University, China, and a Master's degree in Education Technology from the University of Manchester, UK.
+  </p>
+</div>
+<div class="docs-section" id="news">
+  <h4>Recent News</h4>
+  {% assign current_talks = site.data.news.news | where: "category", "current" %}
+  {% for talk in current_talks %}
+    <b>{{ talk.time }}</b>: {{ talk.events }}</a> </br>
+  {% endfor %}
+</div>
+
+
+<div class="docs-section" id="publications">
+  <h4>Publications</h4>
+
+  <p>Please find all publications on my <a href="https://scholar.google.com/citations?user=V-dlwF4AAAAJ&hl=en" target="_blank">Google Scholar</a>.  </p>
+  <p>* denotes equal contributions.</p>
+
+  <ul class="tab-nav">
+    <li><div class="button active" data-ref="#papers-sel">Selected and Recent Papers</div></li>
+    <li><div class="button" data-ref="#papers-all">All</div></li>    
+  </ul>
+
+  <div class="tab-content">
+
+    <div class="tab-pane active" id="papers-sel">
+      {% assign papers = site.data.publications.papers | where: "selected", "y" %}
+      {% for paper in papers %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b>
+            {% if paper.paper_pdf %}
+              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
+            {% endif %}
+            {% if paper.pap %}
+              <a class="button" href="{{ paper.pap }}" target="_blank">Preregistration</a>
+            {% endif %}
+            {% if paper.slides %}
+              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+            {% endif %}
+            {% if paper.poster %}
+              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+            {% endif %}
+            {% if paper.video %}
+              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+            {% endif %}
+            {% if paper.code %}
+              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+            {% endif %}
+          </p>
+          <p>{{ paper.authors }}</p>
+          <p><i>{{ paper.venue }}</i></p>
+          <p><i>{{ paper.extra_venue }}</i></p>
+          {% if paper.award %}
+            <p><b style="color:#4682b4">{{ paper.award }}</b></p>
+          {% endif %}
+          {% if paper.news %}
+            <p><b style="color:#4682b4">{{ paper.news }}</b></p>
+          {% endif %}
+           <div class="paper-buttons">
+
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <!-- All PAPERS -->
+    <div class="tab-pane" id="papers-all">
+      {% assign papers = site.data.publications.papers %}
+      {% for paper in papers %}
+        <div class="paper">
+          <p class="title"><b>{{ paper.title }}</b>
+            {% if paper.paper_pdf %}
+              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
+            {% endif %}
+            {% if paper.pap %}
+              <a class="button" href="{{ paper.pap }}" target="_blank">Preregistration</a>
+            {% endif %}
+            {% if paper.slides %}
+              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+            {% endif %}
+            {% if paper.poster %}
+              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+            {% endif %}
+            {% if paper.video %}
+              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+            {% endif %}
+            {% if paper.code %}
+              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+            {% endif %}
+          </p>
+          <p>{{ paper.authors }}</p>
+          <p><i>{{ paper.venue }}</i></p>
+          <p><i>{{ paper.extra_venue }}</i></p>
+          {% if paper.award %}
+          <p><b style="color:#4682b4">{{ paper.award }}</b></p>
+          {% endif %}
+          {% if paper.news %}
+            <p><b style="color:#4682b4">{{ paper.news }}</b></p>
+          {% endif %}
+          <div class="paper-buttons">
+
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+
+<div class="docs-section" id="ack">
+  <h4>Honors and Awards</h4>
+  <p>
+    <table style="border-collapse: collapse; width: 100%;">
+      <tr>
+        <td style="white-space: nowrap; padding-right: 1.5em; vertical-align: top; color: #555;">2025</td>
+        <td style="padding-bottom: 0.4em;">Elfreda A. Chatman Research Award, Association for Information Science and Technology</td>
+      </tr>
+      <tr>
+        <td style="white-space: nowrap; padding-right: 1.5em; vertical-align: top; color: #555;">2025</td>
+        <td style="padding-bottom: 0.4em;">AERA International Student Award, American Educational Research Association</td>
+      </tr>
+      <tr>
+        <td style="white-space: nowrap; padding-right: 1.5em; vertical-align: top; color: #555;">2025</td>
+        <td style="padding-bottom: 0.4em;">Oxford-Berkeley Summer Doctoral Program Scholarship, UC Berkeley</td>
+      </tr>
+      <tr>
+        <td style="white-space: nowrap; padding-right: 1.5em; vertical-align: top; color: #555;">2022</td>
+        <td style="padding-bottom: 0.4em;">Simon Initiative's LearnLab Summer School Scholarship, Carnegie Mellon University</td>
+      </tr>
+      <tr>
+        <td style="white-space: nowrap; padding-right: 1.5em; vertical-align: top; color: #555;">2022</td>
+        <td style="padding-bottom: 0.4em;">Ewha-Luce International Research Seminar Scholarship, Ewha Womans University</td>
+      </tr>
+      <tr>
+        <td style="white-space: nowrap; padding-right: 1.5em; vertical-align: top; color: #555;">2022–26</td>
+        <td style="padding-bottom: 0.4em;">NTU Research Scholarship, Nanyang Technological University</td>
+      </tr>
+    </table>
+  </p>
+</div>
+
+<!-- 
+<div class="docs-section" id="ack">
+  <h4>Honors and Awards</h4>
+  <p>
+  </p>
+</div> -->
