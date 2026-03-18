@@ -1,17 +1,16 @@
 news:
-  - time: "May 2025"
-    events: "xxxx."
-    category: "past"
+  - time: "November 2025"
+    events: "WonderKids research proposal received the Elfreda A. Chatman Research Award by the Association for Information Science and Technology (ASIST) Special Interest Group on Information Needs, Seeking, and Use (SIG USE)."
+    category: "current"
 
-  - time: "February 2025"
-    events: "xxxxxx"
-    category: "past"
+  - time: "August 2025"
+    events: "SingaKids AI Tutor demonstration featured at the SG60 Heart & Soul Experience, presented by the Ministry of Digital Development and Information (MDDI) and National Library Board Singapore (NLB), running from 26 Aug to 31 Dec 2025."
+    category: "current"
 
-  - time: "February 2025"
-    events: "xxxxxx"
-    category: "past"
+  - time: "April 2025"
+    events: "Presented paper titled \"Code Buddies: How Pair Programming Enhances Computational Thinking, Self-Efficacy, and Engagement in Elementary School Students\" at the American Educational Research Association (AERA) Annual Meeting, Denver, Colorado."
+    category: "current"
 
-  - time: "February 2025"
-    events: "xxxxxx"
-    category: "past"
-
+  - time: "March 2025"
+    events: "Presented paper titled \"Scaling Up Collaborative Dialogue Analysis: An AI-Driven Approach to Understanding Dialogue Patterns in Computational Thinking Education\" at the 15th International Conference on Learning Analytics and Knowledge (LAK'25), Dublin, Ireland."
+    category: "current"
