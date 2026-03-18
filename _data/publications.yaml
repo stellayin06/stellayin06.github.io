@@ -1,74 +1,74 @@
 papers:
 
   - title: "Decoding the Success of Collaboration in Computational Thinking"
-    authors: "Stella Xin Yin, Dion Hoe-Lian Goh, Choon Lang Quek"
+    authors: "<b>Stella Xin Yin</b>, Dion Hoe-Lian Goh, Choon Lang Quek"
     venue: "Learning and Instruction 2025"
     paper_pdf: "assets/posters/Decoding the success of collaboration in computational thinking.pdf"
     selected: y
     news: "Through a between-subject experiment with 79 fifth-grade elementary school students, this study examines how self-efficacy, engagement, and collaboration preference influence CT skills and learning satisfaction. It also compares the relationships among these motivational factors between pair programming and individual learning contexts."
     
   - title: "Scaling up Collaborative Dialogue Analysis: An AI-driven Approach to Understanding Dialogue Patterns in Computational Thinking Education"
-    authors: "Stella Xin Yin, Zhengyuan Liu, Dion Hoe-Lian Goh, Choon Lang Quek, Nancy F. Chen"
+    authors: "<b>Stella Xin Yin</b>, Zhengyuan Liu, Dion Hoe-Lian Goh, Choon Lang Quek, Nancy F. Chen"
     venue: "LAK 2025"
     selected: y
     paper_pdf: "assets/posters/Scaling Up Collaborative Dialogue Analysis.pdf"
     news: "We introduce an AI-driven collaborative dialogue analysis framework that effectively analyze classroom recordings with high accuracy and efficiency. After identifying the dialogue patterns, we investigate the relationships between these patterns and CT performance. Four clusters of dialogue patterns have been identified: Inquiry, Constructive Collaboration, Disengagement, and Disputation."
 
   - title: "Mapping the Public Understanding of Computational Thinking Education: Insights from Social Q&A Platform Discussions"
-    authors: "Stella Xin Yin, Dion Hoe-Lian Goh, Choon Lang Quek, Zhengyuan Liu"
+    authors: "<b>Stella Xin Yin</b>, Dion Hoe-Lian Goh, Choon Lang Quek, Zhengyuan Liu"
     venue: "Educational Technology & Society 2025"
     paper_pdf: "assets/posters/Mapping the public understanding of computational thinking education.pdf"
     news: "We collected questions and answers related to CT education on the Quora platform between 2010-2022. We then applied a topic modeling approach and identified 6 topics in questions and 14 topics in answers. Our findings revealed that people showed great interests but also uncertainty about CT education learning outcomes. Many people asked for suggestions on CT learning tools and platforms, but they struggled to identify appropriate information to support their learning needs. Among their answers, while people held positive attitudes toward CT education, they were concerned about the difficulties their children faced in the learning process and the problem of educational equity."
 
   - title: "Understanding Determinants of Student Behavioral Intention in Singapore's AI Education: Insights from the Situated Expectancy-Value Theory"
-    authors: "Stella Xin Yin, Dion Hoe-Lian Goh"
+    authors: "<b>Stella Xin Yin</b>, Dion Hoe-Lian Goh"
     venue: "Interactive Learning Environments 2025"
     selected: y
     paper_pdf: "assets/posters/Understanding determinants of student behavioral intention in Singapore s AI education  insights from the situated expectancy-value theory.pdf"
     news: "We introduce an AI-driven collaborative dialogue analysis framework that effectively analyze classroom recordings with high accuracy and efficiency. After identifying the dialogue patterns, we investigate the relationships between these patterns and CT performance. Four clusters of dialogue patterns have been identified: Inquiry, Constructive Collaboration, Disengagement, and Disputation."
 
   - title: "COGENT: A Curriculum-oriented Framework for Generating Grade-appropriate Educational Content"
-    authors: "Zhengyuan Liu*, Stella Xin Yin*, Dion Hoe-Lian Goh, Nancy F. Chen"
+    authors: "Zhengyuan Liu*, <b>Stella Xin Yin*</b>, Dion Hoe-Lian Goh, Nancy F. Chen"
     venue: "BEA 2025"
     paper_pdf: "https://aclanthology.org/2025.bea-1.10.pdf"
     news: "We propose COGENT, a curriculum-oriented framework for generating grade-appropriate educational content. We incorporate three curriculum components (science concepts, core ideas, and learning objectives), control readability through length, vocabulary, and sentence complexity, and adopt a “wonder-based” approach to increase student engagement and interest."
 
   - title: "SingaKids: A Multilingual Multimodal Dialogic Tutor for Language Learning"
-    authors: "Zhengyuan Liu, Geyu Lin, Hui Li Tan, Huayun Zhang, Yanfeng Lu, Xiaoxue Gao, Stella Xin Yin, Sun He, Hock Huan Goh, Lung Hsiang Wong, Nancy F. Chen"
+    authors: "Zhengyuan Liu, Geyu Lin, Hui Li Tan, Huayun Zhang, Yanfeng Lu, Xiaoxue Gao, <b>Stella Xin Yin</b>, Sun He, Hock Huan Goh, Lung Hsiang Wong, Nancy F. Chen"
     venue: "ACL 2025"
     selected: y
     paper_pdf: "https://aclanthology.org/2025.acl-industry.86.pdf"
     news: "We introduce SingaKids, a dialogic tutor designed to facilitate language learning through picture description tasks. Our system integrates dense image captioning, multilingual dialogic interaction, speech understanding, and engaging speech generation to create an immersive learning environment in four languages: English, Mandarin, Malay, and Tamil."
 
   - title: "Collaborative Learning in K-12 Computational Thinking Education: A Systematic Review"
-    authors: "Stella Xin Yin, Dion Hoe-Lian Goh, Choon Lang Quek"
+    authors: "<b>Stella Xin Yin</b>, Dion Hoe-Lian Goh, Choon Lang Quek"
     venue: "Journal of Educational Computing Research 2024"
     selected: y
     paper_pdf: "assets/posters/Collaborative Learning in K-12 Computational Thinking Education A Systematic Review.pdf"
     news: "This study examined 43 empirical studies that have applied CL strategies, ranging from 2006 to 2022. First, a wide range of theories and frameworks were applied to inform research questions, pedagogical design, and research methodologies. Second, despite the acknowledged importance of group composition in effective CL, a large number of studies did not provide details on how the students were grouped. Third, six types of CL activities and instructional designs have been identified in CT classrooms."
 
   - title: "Factors Influencing University Students' AI Use and Knowledge Acquisition"
-    authors: "Stella Xin Yin, Dion Hoe-Lian Goh"
+    authors: "<b>Stella Xin Yin</b>, Dion Hoe-Lian Goh"
     venue: "ASIST 2024"
     paper_pdf: ""
     news: "We examined how university students' beliefs influenced their motivation to learn about and engage with AI technologies. Our findings demonstrated the significant role of expectancy-value beliefs in shaping students' behavioral intention. Additionally, we identified gender differences, which can inform educators in designing gender-specific interventions to enhance female students' motivation in AI learning."
 
   - title: "Personality-Aware Student Simulation for Conversational Intelligent Tutoring Systems"
-    authors: "Zhengyuan Liu*, Stella Xin Yin*, Geyu Lin, Nancy F. Chen"
+    authors: "Zhengyuan Liu*, <b>Stella Xin Yin*</b>, Geyu Lin, Nancy F. Chen"
     venue: "EMNLP 2024"
     selected: y
     paper_pdf: "assets/posters/Personality-aware Student Simulation for Conversational Intelligent Tutoring Systems.pdf"
     news: "We propose a framework to construct profiles of different student groups by refining and integrating both cognitive and noncognitive aspects, and leverage LLMs for personality-aware student simulation in a language learning scenario. We further enhance the framework with multi-aspect validation, and conduct extensive analysis from both teacher and student perspectives. Our experimental results show that state-of-the-art LLMs can produce diverse student responses according to the given language ability and personality traits, and trigger teacher's adaptive scaffolding strategies."
 
   - title: "Scaffolding Language Learning via Multi-Modal Tutoring Systems with Pedagogical Instructions"
-    authors: "Zhengyuan Liu*, Stella Xin Yin*, Carolyn Lee, Nancy F. Chen"
+    authors: "Zhengyuan Liu*, <b>Stella Xin Yin*</b>, Carolyn Lee, Nancy F. Chen"
     venue: "2024 IEEE Conference on Artificial Intelligence (CAI)"
     selected: y
     paper_pdf: "assets/posters/Scaffolding.pdf"
     news: "We investigate how pedagogical instructions facilitate the scaffolding in ITSs, by conducting a case study on guiding children to describe images for language learning. We construct different types of scaffolding tutoring systems grounded in four fundamental learning theories: knowledge construction, inquiry-based learning, dialogic teaching, and zone of proximal development."
 
   - title: "Optimizing Code-Switching in Conversational Tutoring Systems: A Pedagogical Framework and Evaluation"
-    authors: "Zhengyuan Liu*, Stella Xin Yin*, Nancy F. Chen"
+    authors: "Zhengyuan Liu*, <b>Stella Xin Yin*</b>, Nancy F. Chen"
     venue: "SIGDIAL 2024"
     selected: y
     paper_pdf: "https://aclanthology.org/2024.sigdial-1.43.pdf"
