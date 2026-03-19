@@ -25,7 +25,7 @@ papers:
     venue: "Interactive Learning Environments 2025"
     selected: y
     paper_pdf: "assets/posters/Understanding determinants of student behavioral intention in Singapore s AI education  insights from the situated expectancy-value theory.pdf"
-    news: "We introduce an AI-driven collaborative dialogue analysis framework that effectively analyze classroom recordings with high accuracy and efficiency. After identifying the dialogue patterns, we investigate the relationships between these patterns and CT performance. Four clusters of dialogue patterns have been identified: Inquiry, Constructive Collaboration, Disengagement, and Disputation."
+    news: "Guided by situated expectancy-value theory (SEVT) and the theory of planned behavior (TPB), this study investigated the role of supportive environment and expectancy-value-cost beliefs in shaping university students’ behavioral intention in AI education. A total of 609 university students participated in this study. The findings highlighted the significant role of expectancy-value beliefs in motivating students’ intention to learn and use AI."
 
   - title: "COGENT: A Curriculum-oriented Framework for Generating Grade-appropriate Educational Content"
     authors: "Zhengyuan Liu*, <b>Stella Xin Yin*</b>, Dion Hoe-Lian Goh, Nancy F. Chen"
