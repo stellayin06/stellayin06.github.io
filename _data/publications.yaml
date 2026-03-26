@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Leveraging LLMs for Dynamic Engagement Pattern Recognition in Collaborative Learning"
+    authors: "<b>Stella Xin Yin</b>, Zhengyuan Liu, Dion Hoe-Lian Goh, Nancy F. Chen"
+    venue: "AIED 2026"
+    paper_pdf: "XXX"
+    selected: y
+    news: "We introduce a MMLA framework that leverages LLMs to dynamically and hierarchically recognize engagement patterns. Our approach moves beyond static scoring by integrating verbal dialogue and non-verbal behavioral cues, and identifies and represents evolving engagement trajectories in an interpretable, descriptive form. We demonstrate its effectiveness on a dataset of 1,072 video recordings from 13 student groups in a computational thinking course."
+
   - title: "Decoding the Success of Collaboration in Computational Thinking"
     authors: "<b>Stella Xin Yin</b>, Dion Hoe-Lian Goh, Choon Lang Quek"
     venue: "Learning and Instruction 2025"
