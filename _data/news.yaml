@@ -1,6 +1,10 @@
 news:
+  - time: "Jun 2026"
+    events: "I will visit 🇰🇷 Seoul in July to present MMLA paper at <b>AIED S2026</b>."
+    category: "current"
+
   - time: "November 2025"
-    events: "WonderKids research proposal received the Elfreda A. Chatman Research Award by the Association for Information Science and Technology (ASIST) Special Interest Group on Information Needs, Seeking, and Use (SIG USE)."
+    events: "🇺🇸WonderKids research proposal received the Elfreda A. Chatman Research Award by the Association for Information Science and Technology (ASIST) Special Interest Group on Information Needs, Seeking, and Use (SIG USE)."
     category: "current"
 
   - time: "August 2025"
