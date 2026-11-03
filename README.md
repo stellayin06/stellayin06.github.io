@@ -14,7 +14,6 @@ This is a static HTML, CSS, and JavaScript website. It does not require Jekyll, 
 | `app.js` | Publication search, filters, figure viewer, and mobile navigation |
 | `assets/portrait.webp` | Profile photograph |
 | `assets/figure-0.webp` to `assets/figure-8.webp` | Figures for selected papers |
-| `assets/CV_Stella_Yin.docx` | Downloadable CV |
 | `assets/posters/` | Original paper PDFs; preserve filenames to keep existing links working |
 
 When adding publications, update the displayed publication counts in `index.html` and the available year options when needed. Selected figure filenames follow each paper's `id` in `data.js`. Update figure descriptions and source links with the corresponding paper.
