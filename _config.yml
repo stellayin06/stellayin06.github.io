@@ -1,8 +1,0 @@
-source:      .
-destination: ./_site
-includes:    ./_includes
-url: "https://stellayin06.github.io"
-
-collections:
-  projects:
-    output: true
